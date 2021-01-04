@@ -14,7 +14,7 @@ Design and code are my craft. I do my best to come to work each day with a colla
 
 I am currently working at Descartes Labs as a visual designer and front-end developer. I am one of two designers/developers working on web applications that allow data scientists to efficiently access, manage, and analyze satellite imagery and vector datasets.
 
-In my free time, I enjoy birding, writing, and teaching design and code to middle school girls in my community. 
+In my free time, I enjoy bird watching, writing, making zine, and teaching design and code to people of all ages, but mostly middle school girls. 
 
 <!--
 **samanthaandrews/samanthaandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
