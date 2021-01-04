@@ -1,6 +1,6 @@
 ### Samantha Andrews (pronouns: she/her) 👋
 
-I'm Samantha (pronouns: she/her), a designer who codes.
+I'm Samantha, a designer who codes.
 
 As an undergrad, I went to the University of New Mexico and double majored in Communication and Spanish. I supplemented my studies with art and design classes through my university honors department. During my senior year, I made the decision to pursue design as a career and started building a portfolio through freelance work and online human-centered design courses. In 2018, I completed the Fullstack Software Development Bootcamp at Central New Mexico Community College where I fell in love with formal logic and problem solving through coding.
 
