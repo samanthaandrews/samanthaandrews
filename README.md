@@ -6,7 +6,7 @@ As an undergrad, I went to the University of New Mexico and double majored in Co
 
 My multidisciplinary education provides a strong foundation for my role as a product designer and front-end developer, where I bridge the gap between user requirements and polished, user-friendly web applications.
 
-My specialties include thoughtful and practical user interface design, front-end development using React, and project management. Currently learning Golang and Python.
+My specialties include thoughtful and practical user interface design and frontend development using React. I have a deep understanding of design systems and building user interface components and libraries that scale to business needs.
 
 What drives me is a desire to consistently deliver value and delight to users. Alongside product managers, I work diligently to do just enough research to understand the root of a user's problem and design features that provide value incrementally, without incurring an overwhelming amount of technical debt.
 
