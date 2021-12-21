@@ -12,9 +12,9 @@ What drives me is a desire to consistently deliver value and delight to users. A
 
 Design and code are my craft. I do my best to come to work each day with a collaborative attitude, a willingness to learn, and a desire to be 1% better than the day before.
 
-I am currently working at Descartes Labs as a product designer and software engineer. I am one of two designers/developers working on web applications that allow data scientists to efficiently access, manage, and analyze satellite imagery and vector datasets.
+I am currently working at the New York Public Library as a front-end software engineer. I am part of a small team working on web applications that allow people of all ages to read books online for free.
 
-In my free time, I enjoy bird watching, writing, making art and zines, and teaching computer programming to designers at [Designers Who Code](https://designerswhocode.club/)
+In my free time, I enjoy bird watching, writing and making art.
 
 <!--
 **samanthaandrews/samanthaandrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
